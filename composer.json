@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.2",
+        "illuminate/database": "^10.48",
+        "illuminate/events": "^10.48",
+        "phpoffice/phpspreadsheet": "^4.3"
+    }
+}
